@@ -3,7 +3,7 @@ Microsoft (R) Build Engine, version 4.6.57.0
 Copyright (C) Microsoft Corporation 2007. Alle rettigheder forbeholdes.
 
 Projekterne i denne l›sning bygges ‚t ad gangen. Hvis du vil aktivere parallel bygning, skal du tilf›je parameteren "/m".
-Build startede 04-09-2015 13:52:08.
+Build startede 04-09-2015 13:55:24.
 Projekt "C:\Source\dukaPC2\dukaPC2.sln" p† node 1 (standarddestinationer).
 ValidateSolutionConfiguration:
   L›sningskonfigurationen "Release|Any CPU" bygges.
@@ -66,4 +66,4 @@ Build lykkedes.
     0 advarsel/advarsler
     0 Fejl
 
-Forl›bet tid 00:00:00.32
+Forl›bet tid 00:00:00.35
