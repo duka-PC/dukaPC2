@@ -1,0 +1,6 @@
+c:\Users\mpa\documents\visual studio 2013\Projects\dukaPC2\Utilities\bin\Debug\Utilities.dll
+c:\Users\mpa\documents\visual studio 2013\Projects\dukaPC2\Utilities\bin\Debug\Utilities.pdb
+c:\Users\mpa\documents\visual studio 2013\Projects\dukaPC2\Utilities\obj\Debug\Utilities.Resources.resources
+c:\Users\mpa\documents\visual studio 2013\Projects\dukaPC2\Utilities\obj\Debug\Utilities.vbproj.GenerateResource.Cache
+c:\Users\mpa\documents\visual studio 2013\Projects\dukaPC2\Utilities\obj\Debug\Utilities.dll
+c:\Users\mpa\documents\visual studio 2013\Projects\dukaPC2\Utilities\obj\Debug\Utilities.pdb
