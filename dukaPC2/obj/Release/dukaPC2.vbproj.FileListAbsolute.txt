@@ -1,0 +1,15 @@
+C:\Source\dukaPC2\build\bin\dukaPC2.exe.config
+C:\Source\dukaPC2\build\bin\dukaPC2.exe
+C:\Source\dukaPC2\build\bin\dukaPC2.pdb
+C:\Source\dukaPC2\dukaPC2\obj\Release\dukaPC2.vbprojResolveAssemblyReference.cache
+C:\Source\dukaPC2\dukaPC2\obj\Release\DXSplashScreen\SplashScreenView1.baml
+C:\Source\dukaPC2\dukaPC2\obj\Release\MainWindow.baml
+C:\Source\dukaPC2\dukaPC2\obj\Release\DXSplashScreen\SplashScreenView1.g.vb
+C:\Source\dukaPC2\dukaPC2\obj\Release\MainWindow.g.vb
+C:\Source\dukaPC2\dukaPC2\obj\Release\Application.g.vb
+C:\Source\dukaPC2\dukaPC2\obj\Release\dukaPC2_MarkupCompile.cache
+C:\Source\dukaPC2\dukaPC2\obj\Release\dukaPC2.g.resources
+C:\Source\dukaPC2\dukaPC2\obj\Release\dukaPC2.Resources.resources
+C:\Source\dukaPC2\dukaPC2\obj\Release\dukaPC2.vbproj.GenerateResource.Cache
+C:\Source\dukaPC2\dukaPC2\obj\Release\dukaPC2.exe
+C:\Source\dukaPC2\dukaPC2\obj\Release\dukaPC2.pdb

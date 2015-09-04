@@ -1,0 +1,7 @@
+C:\Source\dukaPC2\build\bin\Utilities.dll
+C:\Source\dukaPC2\build\bin\Utilities.pdb
+C:\Source\dukaPC2\Utilities\obj\Release\Utilities.vbprojResolveAssemblyReference.cache
+C:\Source\dukaPC2\Utilities\obj\Release\Utilities.Resources.resources
+C:\Source\dukaPC2\Utilities\obj\Release\Utilities.vbproj.GenerateResource.Cache
+C:\Source\dukaPC2\Utilities\obj\Release\Utilities.dll
+C:\Source\dukaPC2\Utilities\obj\Release\Utilities.pdb
